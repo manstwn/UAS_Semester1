@@ -6,12 +6,12 @@
 Soal dari UAS.\
 ![screenshot output](screenshot/soal.png)
 
-Menggunakan Package pada Python
-main.py
-sub model
--daftar_nilai.py
-sub view
--input_nilai.py
+Menggunakan Package pada Python\
+main.py\
+sub model\
+-daftar_nilai.py\
+sub view\
+-input_nilai.py\
 -view_nilai.py
 
 Tampilan dari menu utama.\
