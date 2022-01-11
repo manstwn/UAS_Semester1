@@ -4,7 +4,7 @@
 **Tugas Ujian Akhir Semester**
 
 Soal dari UAS.\
-![screenshot output](screenshot/ss1.png)
+![screenshot output](screenshot/soal.png)
 
 Menggunakan Package pada Python
 main.py
